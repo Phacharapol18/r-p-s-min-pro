@@ -1,0 +1,18 @@
+* {
+    text-align: center;
+}
+h1 {
+    color: aqua;
+    font-size: 10rem;
+   
+}
+button {
+    font-size: 3rem;
+    padding: 20px;
+    width: 25%;
+    color: brown;
+    background-color: bisque;
+}
+button:hover {
+    background-color: chocolate;
+}
